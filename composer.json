@@ -1,0 +1,19 @@
+{
+    "name": "tangpw/first",
+    "description": "这是第一个",
+    "require": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "authors": [
+        {
+            "name": "tang",
+            "email": "528584252@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Tang\\App\\": "src/"
+        }
+    }
+}
