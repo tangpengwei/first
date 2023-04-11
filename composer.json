@@ -2,7 +2,9 @@
     "name": "tangpw/first",
     "description": "这是第一个",
     "require": {
-        "phpunit/phpunit": "^9.6"
+        "phpunit/phpunit": "^9.6",
+        "php": "^7.3 || ^8.0",
+        "ext-json": "*"
     },
     "authors": [
         {
